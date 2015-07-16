@@ -5,9 +5,22 @@
   "description": "Facebook React Starter Kit",
   "repository": "https://github.com/kriasoft/react-seed",
   "dependencies": {
-    "bootstrap": "^3.2.0",
-    "react": "^0.11.1",
-    "react-router": "^0.7.0"
+    "ace": "0.0.2",
+    "babel": "5.5.6",
+    "brace": "^0.5.1",
+    "classnames": "2.1.2",
+    "eventemitter3": "1.1.0",
+    "express": "4.12.4",
+    "fastclick": "1.0.6",
+    "flux": "2.0.1",
+    "front-matter": "1.0.0",
+    "jade": "1.10.0",
+    "lodash": "3.9.3",
+    "normalize.css": "3.0.3",
+    "react": "0.13.3",
+    "react-ace": "^2.0.1",
+    "source-map-support": "0.3.1",
+    "superagent": "1.2.0"
   },
   "devDependencies": {
     "browser-sync": "^1.4.0",
